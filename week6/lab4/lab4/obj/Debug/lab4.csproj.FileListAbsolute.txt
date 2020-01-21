@@ -1,0 +1,414 @@
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\ApplicationInsights.config
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\roslyn\csc.exe
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\roslyn\vbc.exe
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\roslyn\VBCSCompiler.exe
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\lab4.dll.config
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\lab4.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\lab4.pdb
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Antlr3.Runtime.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\EntityFramework.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\EntityFramework.SqlServer.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.AI.Web.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.ApplicationInsights.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Newtonsoft.Json.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Owin.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\System.Web.Helpers.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\System.Web.Mvc.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\System.Web.Optimization.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\System.Web.Razor.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\System.Web.WebPages.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\System.Web.WebPages.Razor.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\WebGrease.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.AI.Web.xml
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.ApplicationInsights.xml
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\System.Web.Helpers.xml
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\System.Web.Mvc.xml
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\System.Web.Optimization.xml
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\System.Web.Razor.xml
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\System.Web.WebPages.xml
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\System.Web.WebPages.Razor.xml
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Antlr3.Runtime.pdb
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Newtonsoft.Json.xml
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\EntityFramework.xml
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\EntityFramework.SqlServer.xml
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.xml
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.xml
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\obj\Debug\lab4.dll
+C:\Users\001425990\Desktop\week4 lab4\lab4\lab4\obj\Debug\lab4.pdb
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\ApplicationInsights.config
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\roslyn\csc.exe
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\roslyn\System.Collections.Immutable.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\roslyn\System.Reflection.Metadata.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\roslyn\vbc.exe
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\roslyn\VBCSCompiler.exe
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\roslyn\VBCSCompiler.exe.config
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\lab4.dll.config
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\lab4.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\lab4.pdb
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Antlr3.Runtime.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\EntityFramework.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\EntityFramework.SqlServer.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.AI.DependencyCollector.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.AI.Web.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.AI.WindowsServer.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.ApplicationInsights.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.Owin.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.Google.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.Web.Infrastructure.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Newtonsoft.Json.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Owin.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\System.Web.Helpers.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\System.Web.Mvc.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\System.Web.Optimization.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\System.Web.Razor.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\System.Web.WebPages.Deployment.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\System.Web.WebPages.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\System.Web.WebPages.Razor.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\WebGrease.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.AI.DependencyCollector.xml
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.AI.Web.xml
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.AI.WindowsServer.xml
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.ApplicationInsights.xml
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\System.Web.Helpers.xml
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\System.Web.Mvc.xml
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\System.Web.Optimization.xml
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\System.Web.Razor.xml
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\System.Web.WebPages.xml
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\System.Web.WebPages.Deployment.xml
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\System.Web.WebPages.Razor.xml
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Antlr3.Runtime.pdb
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Newtonsoft.Json.xml
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\EntityFramework.xml
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\EntityFramework.SqlServer.xml
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.Owin.xml
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.xml
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.Google.xml
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\obj\Debug\lab4.dll
+G:\Quarter_8\Advanced .NET\week4\week4 lab4\lab4\lab4\obj\Debug\lab4.pdb
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\ApplicationInsights.config
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\roslyn\csc.exe
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\roslyn\vbc.exe
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\roslyn\VBCSCompiler.exe
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\lab4.dll.config
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\lab4.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\lab4.pdb
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Antlr3.Runtime.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\EntityFramework.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\EntityFramework.SqlServer.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.AI.Web.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.ApplicationInsights.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Newtonsoft.Json.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Owin.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\System.Web.Helpers.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\System.Web.Mvc.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\System.Web.Optimization.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\System.Web.Razor.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\System.Web.WebPages.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\System.Web.WebPages.Razor.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\WebGrease.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.AI.Web.xml
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.ApplicationInsights.xml
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\System.Web.Helpers.xml
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\System.Web.Mvc.xml
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\System.Web.Optimization.xml
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\System.Web.Razor.xml
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\System.Web.WebPages.xml
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\System.Web.WebPages.Razor.xml
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Antlr3.Runtime.pdb
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Newtonsoft.Json.xml
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\EntityFramework.xml
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\EntityFramework.SqlServer.xml
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.xml
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.xml
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\obj\Debug\lab4.csprojAssemblyReference.cache
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\obj\Debug\lab4.csproj.CopyComplete
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\obj\Debug\lab4.dll
+C:\Users\xegif\Desktop\week4 lab4\lab4\lab4\obj\Debug\lab4.pdb
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\ApplicationInsights.config
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\roslyn\csc.exe
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\roslyn\vbc.exe
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\roslyn\VBCSCompiler.exe
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\lab4.dll.config
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\lab4.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\lab4.pdb
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Antlr3.Runtime.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\EntityFramework.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\EntityFramework.SqlServer.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.AI.Web.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.ApplicationInsights.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.Owin.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.Owin.Security.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Newtonsoft.Json.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Owin.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\System.Web.Helpers.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\System.Web.Mvc.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\System.Web.Optimization.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\System.Web.Razor.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\System.Web.WebPages.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\System.Web.WebPages.Razor.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\WebGrease.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.AI.Web.xml
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.ApplicationInsights.xml
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\System.Web.Helpers.xml
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\System.Web.Mvc.xml
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\System.Web.Optimization.xml
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\System.Web.Razor.xml
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\System.Web.WebPages.xml
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\System.Web.WebPages.Razor.xml
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Antlr3.Runtime.pdb
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Newtonsoft.Json.xml
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\EntityFramework.xml
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\EntityFramework.SqlServer.xml
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.Owin.xml
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.Owin.Security.xml
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\xegif\Desktop\week6\lab4\lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\xegif\Desktop\week6\lab4\lab4\obj\Debug\lab4.csprojAssemblyReference.cache
+C:\Users\xegif\Desktop\week6\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\xegif\Desktop\week6\lab4\lab4\obj\Debug\lab4.csproj.CopyComplete
+C:\Users\xegif\Desktop\week6\lab4\lab4\obj\Debug\lab4.dll
+C:\Users\xegif\Desktop\week6\lab4\lab4\obj\Debug\lab4.pdb
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\ApplicationInsights.config
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\roslyn\csc.exe
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\roslyn\System.Collections.Immutable.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\roslyn\System.Reflection.Metadata.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\roslyn\vbc.exe
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\roslyn\VBCSCompiler.exe
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\roslyn\VBCSCompiler.exe.config
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\lab4.dll.config
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\lab4.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\lab4.pdb
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Antlr3.Runtime.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\EntityFramework.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\EntityFramework.SqlServer.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.AI.DependencyCollector.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.AI.Web.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.AI.WindowsServer.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.ApplicationInsights.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.Owin.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.Owin.Security.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.Owin.Security.Google.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.Web.Infrastructure.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Newtonsoft.Json.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Owin.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\System.Web.Helpers.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\System.Web.Mvc.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\System.Web.Optimization.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\System.Web.Razor.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\System.Web.WebPages.Deployment.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\System.Web.WebPages.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\System.Web.WebPages.Razor.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\WebGrease.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.AI.DependencyCollector.xml
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.AI.Web.xml
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.AI.WindowsServer.xml
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.ApplicationInsights.xml
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\System.Web.Helpers.xml
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\System.Web.Mvc.xml
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\System.Web.Optimization.xml
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\System.Web.Razor.xml
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\System.Web.WebPages.xml
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\System.Web.WebPages.Deployment.xml
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\System.Web.WebPages.Razor.xml
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Antlr3.Runtime.pdb
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Newtonsoft.Json.xml
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\EntityFramework.xml
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\EntityFramework.SqlServer.xml
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.Owin.xml
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.Owin.Security.xml
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.Owin.Security.Google.xml
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\obj\Debug\lab4.dll
+G:\Quarter_8\Advanced .NET\week6\lab6\lab4\obj\Debug\lab4.pdb

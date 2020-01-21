@@ -1,0 +1,27 @@
+﻿@model Practice.ViewModels.Home.ArtistListViewModel
+
+@{
+    ViewBag.Title = "ArtistList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>ArtistList</h2>
+@Html.ListBox("artistList", Model.ArtistList)
+
+<h2>First artist</h2>
+<dl>
+
+
+    <dt>Name</dt>
+    <dd>@Model.Name.ArtistName</dd>
+
+    <dt>Email</dt>
+    <dd>@Model.Name.Email</dd>
+
+    <dt>Date</dt>
+    <dd>@Model.Name.Date</dd>
+
+
+
+
+</dl>

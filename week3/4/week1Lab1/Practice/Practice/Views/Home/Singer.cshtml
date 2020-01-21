@@ -1,0 +1,17 @@
+﻿
+@model Practice.ViewModels.Home.SingerViewModel[]
+
+<h2>Singer</h2>
+<ul>
+    @for (var i = 0; i < 2; i++)
+    {
+
+    <li>SinguerName: @Model[i].SingerName  </li>
+    <li>SinguerTrack: @Model[i].SingerTracks  </li>
+
+
+    }
+</ul>
+
+
+

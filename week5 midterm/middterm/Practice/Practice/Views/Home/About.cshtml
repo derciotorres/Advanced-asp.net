@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "About";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div style="float:left"> <img src="https://i.kym-cdn.com/photos/images/original/001/284/017/5ed.png" alt="W3Schools.com" style="width:250px;height:250px;"></div>
+
+<div class="col-md-4">
+
+
+    <h2>@ViewBag.message</h2>
+    <p>New on the singing field ?.</p>
+    <p>You can start tomorrow @DateTime.Now.AddDays(1).ToLongDateString() and have a free trial.</p>
+
+</div>

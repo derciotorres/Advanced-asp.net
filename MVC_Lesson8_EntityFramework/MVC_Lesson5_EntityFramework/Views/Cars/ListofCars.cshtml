@@ -1,0 +1,37 @@
+﻿@model List<MVC_Lesson5_EntityFramework.Models.Car>
+
+@{
+    ViewBag.Title = "ListofCars";
+}
+
+
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>This Week's Deals</h2>
+        <p>
+            Welcome to our showroom.  Treat yourself to a safe new vehicle.
+        </p>
+    </div>
+    <div class="col-md-8">
+        @using (Html.BeginForm("ListofCars", "Cars"))
+        {
+            @Html.TextBox("searchCriteria")
+            <input type = "submit" value = "Find cars" />
+        }
+
+        <h2>Our Current Car Inventory</h2>
+        @*Loop through each car sent as a list and display basic information*@
+        <table class="table-striped table-bordered table-responsive">
+            @foreach (var car in Model)
+            {
+                <tr>
+                    <td>@car.Model</td>
+                    <td>@car.MaxSpeed</td>
+                    <td>@Html.ActionLink("Details", "Details", new { id = car.Car_ID })</td>
+                </tr>
+                }
+
+        </table>
+    </div>
+</div>

@@ -1,0 +1,52 @@
+﻿@model List<Practice.Models.Artist>
+
+@{
+    ViewBag.Title = "listofArtists";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>listofArtists</h2>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>THis weeks Deals</h2>
+        <p>Welcome to our show room</p>
+
+        <div class= "col-md-8">
+            @using (Html.BeginForm("listofArtists", "Artists"))
+            {
+                @Html.TextBox("searchCriteria")
+                <input type="submit" value="Find Artists" />
+
+
+            }
+            <h2>This weeks deal</h2>
+            <table class="table-striped table-bordered table-responsive">
+
+                @foreach (var artist in Model)
+
+                {
+                    <tr>
+
+                        <td>@artist.ArtistName</td>
+                        <td>@artist.Email</td>
+                        <td>@Html.ActionLink("Details", "Details", new { id = artist.Artist_Id })</td>
+
+                    </tr>
+
+                    }
+
+
+
+            </table>
+
+
+
+        </div>
+
+
+    </div>
+
+
+</div>
+

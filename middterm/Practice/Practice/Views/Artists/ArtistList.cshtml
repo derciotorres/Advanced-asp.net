@@ -1,0 +1,34 @@
+﻿@model Practice.ViewModels.Home.ArtistListViewModel
+
+
+@{
+    ViewBag.Title = "ArtistList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>ArtistList</h2>
+<div> <img src="https://media2.giphy.com/media/14d4oSANPYblGU/200w.gif" style="width:250px;height:350px;"></div>
+
+<ul>
+    <li>@Html.ListBox("artistList", Model.ArtistList, new { @style = "width:250px; text-align:center; margin:auto; background-color:invisable; border: 3px solid cyan; color: cyan; background-color: inherit" })</li>
+  
+</ul>
+
+
+<h2>First artist</h2>
+<dl>
+
+
+    <dt>Name</dt>
+    <dd>@Model.Name.ArtistName</dd>
+
+    <dt>Email</dt>
+    <dd>@Model.Name.Email</dd>
+
+    <dt>Date</dt>
+    <dd>@Model.Name.Date</dd>
+
+
+
+
+</dl>

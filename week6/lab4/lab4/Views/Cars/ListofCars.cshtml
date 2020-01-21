@@ -1,0 +1,47 @@
+﻿@model List<lab4.Models.Car>
+
+@{
+    ViewBag.Title = "ListofCars";
+}
+
+
+
+<div class="row">
+    <div class="col-md-4">
+
+
+        <h2>This week's Deals</h2>
+        <p>Welcome to our show room. treat yourself to a safe new vehicle</p>
+
+    </div>
+    <div class="col-md-8">
+        @using (Html.BeginForm("ListofCars", "Cars"))
+        {
+            @Html.TextBox("searchCriteria")
+            <input type="submit" value="Find Cars" />
+
+
+        }
+
+
+
+
+        <h2>Our new inventory</h2>
+
+        <table class="table-striped table-bordered table-responsive">
+            @foreach (var car in Model)
+            {
+                <tr>
+
+                    <td>@car.Model</td>
+                    <td>@car.MaxSpeed</td>
+                    <td>@Html.ActionLink("Details", "Details", new { id = car.Car_ID })</td>
+
+                </tr>
+                }
+
+        </table>
+
+    </div>
+
+</div>

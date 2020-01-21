@@ -1,0 +1,26 @@
+﻿@model Practice.ViewModels.Home.AlbumListViewModel
+
+@{
+    ViewBag.Title = "AlbumList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div> <img src="https://www.firstcomicsnews.com/wp-content/uploads/2017/12/The-List-logo-600x257.png" style="width:350px;height:250px;"></div>
+<h2>Number of tracks on each album</h2>
+
+
+
+<center>@Html.ListBox("albumlist", Model.AlbumList, new { @style = "width:250px; text-align:center; margin:auto; background-color:invisable; border: 3px solid cyan; color: cyan; background-color: inherit" })</center>
+
+<h2>Album</h2>
+<dl>
+    <dt>Album Name</dt>
+    <dd>@Model.MostTracks.Album_Name</dd>
+
+    <dt>Number of Tracks</dt>
+    <dd>@Model.MostTracks.Number_Tracks</dd>
+
+
+
+</dl>
